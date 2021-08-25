@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Órgãos
+title: A equipa
 permalink: /equipa
 comments: false
 image: assets/images/equipa2122.png
 ---
 <div class="list-authors mt-5">
 {% for author in site.authors %}
+  {% if author[1].mandato %}
     <div id="{{ author[1].name }}" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">
         <div class="row">
             <div class="wrapavname col-md-3 text-center">
@@ -39,5 +40,6 @@ image: assets/images/equipa2122.png
             </div>
         </div>
     </div>
+  {% endif %}
 {% endfor %}
 </div>

@@ -3,6 +3,7 @@ layout: page
 title: Documentos
 permalink: /docs
 image: assets/images/documentos.jpg
+imageshadow: true
 comments: false
 ---
 
@@ -10,7 +11,7 @@ A **AAIEP** divulga todos os seus documentos nesta página. Podes consultar os m
 
 # Documentos fundamentais
 
-- **Estatutos** (consultar [aqui](estatutos) ou em formato [PDF](""))
+- **Estatutos** (consultar [aqui](docs/estatutos) ou em formato [PDF](""))
 
 # Mandatos
 

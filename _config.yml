@@ -2,7 +2,8 @@
 name: "AAIEP"
 title: "AAIEP"
 description: "AAIEP, a tua voz na academia. Faz-te ouvir connosco."
-logo: 'assets/images/logodarksimple.png'
+logo: 'assets/images/logodarksimple.png'     # nota, este é o logotipo usado no site, completamente a preto, não alterar
+oficiallogo: 'assets/images/oficiallogo.jpg' # este logotipo é usado nos "authors" que representam os órgãos
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 # google_analytics: 'UA-xxxxxxxx-1'
@@ -11,25 +12,73 @@ baseurl: ''
 include: ["_pages"]
 permalink: /:title/
 email: geral@aaiep.pt
+mandato: "2021/2022"
 
-# Authors
+# Membros da AAIEP
+# Não apagar de mandato para mandato, é necessário para os posts passados funcionarem
+# Quando mudar de mandato, ou se alguém sai, alterar a variável "mandato" para FALSE.
+
+# NOTA IMPORTANTE:
+# Os primeiros 4 autores são a Direção, a Mesa e o Conselho Fiscal. Estes devem ter "mandato: FALSE"
+# de modo a não entrar em conflito com outras partes do site.
+
 authors:
-  sal:
+  mesa:
+    name: mesa
+    display_name: Mesa da Assembleia Geral de Alunos
+    avatar: '{ site.oficiallogo }'
+    email: mesa@aaiep.pt
+    web: 'aga'
+    description: "Mesa da Assembleia Geral de Alunos da AAIEP."
+    mandato: FALSE
+  direcao:
+    name: direcao
+    display_name: Direção
+    avatar: '{ site.oficiallogo }'
+    email: direcao@aaiep.pt
+    web: 'direcao'
+    description: "Direção da AAIEP."
+    mandato: FALSE
+  fiscal:
+    name: fiscal
+    display_name: Conselho Fiscal
+    avatar: '{ site.oficiallogo }'
+    email: fiscal@aaiep.pt
+    web: 'fiscal'
+    description: "Conselho Fiscal da AAIEP."
+    mandato: FALSE
+  eleitoral:
+    name: eleitoral
+    display_name: Comissão Eleitoral
+    avatar: '{ site.oficiallogo }'
+    email: eleicoes@aaiep.pt
+    web: 'eleicoes'
+    description: "Comissão Eleitoral da AAIEP."
+    mandato: FALSE
+
+
+  cesarcaldeira:
     name: cesarcaldeira
     display_name: César Caldeira
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
+    avatar: 'assets/images/avatars/cesarcaldeira.jpg'
+    email: mesa@aaiep.pt
+    web: '/mesa'
     description: "Presidente da Mesa da Assembleia Geral de Alunos."
-  john:
+    mandato: TRUE
+  matildepacheco:
     name: matildepacheco
     display_name: Matilde Pacheco
     avatar: 'assets/images/avatar.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
     description: "Presidente da Direção da AAIEP."
+    mandato: FALSE
+
+###############################################################################
+# !!! ATENÇÃO !!!
+# Estão a entrar na zona proíbida de alterações
+# YOU HAVE BEEN WARNED !
+###############################################################################
 
 # Plugins
 plugins:

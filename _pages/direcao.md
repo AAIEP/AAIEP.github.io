@@ -1,0 +1,15 @@
+---
+layout: page
+title: Direção
+permalink: /direcao
+comments: false
+image: assets/images/ucp_edificio_central.jpg
+imageshadow: true
+---
+A Direção da AAIEP é constituída por um mínimo de cinco elementos e um máximo de quinze, dos quais existe um Presidente, pelo menos um Vice-Presidente, um Tesoureiro e um Secretário-Geral. Atualmente, no mandato de 2021/2022, a Direção é composta por:
+
+* **Presidente:** Matilde Pacheco
+* **Vice-Presidentes:** Matilde Campos e Rodrigo Leitão
+* **Tesoureiro:** Miguel Inácio
+* **Secretária-Geral:** Catarina Nabais
+* **Vogais:** Miguel Justino, Bruno Silva, Britney Gonçalves, Patrícia Vaz, Miguel Figueiredo, Daniel Carrapato, Margarida Paim, Isabella Baltazar, Carolina Ormonde e Beatriz Luís
