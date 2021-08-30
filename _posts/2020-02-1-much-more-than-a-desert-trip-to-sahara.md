@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "COMUNICADO: Início do ano letivo 2021/22"
+author: direcao
 categories: [ Comunicado ]
 image: assets/images/comunicado.jpg
 ---

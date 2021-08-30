@@ -3,8 +3,7 @@ name: "AAIEP"
 title: "AAIEP"
 description: "AAIEP, a tua voz na academia. Faz-te ouvir connosco."
 logo: 'assets/images/logodarksimple.png'     # nota, este é o logotipo usado no site, completamente a preto, não alterar
-oficiallogo: 'assets/images/oficiallogo.jpg' # este logotipo é usado nos "authors" que representam os órgãos
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/logodarksimple.png'
 baseurl: ''
 # google_analytics: 'UA-xxxxxxxx-1'
 # disqus: 'demowebsite'
@@ -25,8 +24,8 @@ mandato: "2021/2022"
 authors:
   mesa:
     name: mesa
-    display_name: Mesa da Assembleia Geral de Alunos
-    avatar: '{ site.oficiallogo }'
+    display_name: Mesa da Assembleia Geral
+    avatar: 'assets/images/oficiallogo.jpg'
     email: mesa@aaiep.pt
     web: 'aga'
     description: "Mesa da Assembleia Geral de Alunos da AAIEP."
@@ -34,7 +33,7 @@ authors:
   direcao:
     name: direcao
     display_name: Direção
-    avatar: '{ site.oficiallogo }'
+    avatar: 'assets/images/oficiallogo.jpg'
     email: direcao@aaiep.pt
     web: 'direcao'
     description: "Direção da AAIEP."
@@ -42,7 +41,7 @@ authors:
   fiscal:
     name: fiscal
     display_name: Conselho Fiscal
-    avatar: '{ site.oficiallogo }'
+    avatar: 'assets/images/oficiallogo.jpg'
     email: fiscal@aaiep.pt
     web: 'fiscal'
     description: "Conselho Fiscal da AAIEP."
@@ -50,7 +49,7 @@ authors:
   eleitoral:
     name: eleitoral
     display_name: Comissão Eleitoral
-    avatar: '{ site.oficiallogo }'
+    avatar: 'assets/images/oficiallogo.jpg'
     email: eleicoes@aaiep.pt
     web: 'eleicoes'
     description: "Comissão Eleitoral da AAIEP."

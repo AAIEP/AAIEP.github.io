@@ -11,7 +11,7 @@ A **AAIEP** divulga todos os seus documentos nesta página. Podes consultar os m
 
 # Documentos fundamentais
 
-- **Estatutos** (consultar [aqui](docs/estatutos) ou em formato [PDF](""))
+- **Estatutos** (consultar [aqui](estatutos) ou em formato [PDF](""))
 
 # Mandatos
 
@@ -23,3 +23,4 @@ A **AAIEP** divulga todos os seus documentos nesta página. Podes consultar os m
  <li>Artigo 3º</li>  
  <li>Artigo 4º</li>  
 </ul>
+</details>
