@@ -18,9 +18,7 @@ Podes contactar a **Direção AAIEP** através do e-mail [direcao@aaiep.pt](mail
 
 <!-- Posts Index
 ================================================== -->
-<div class="blog-grid-container">
-    {% assign posts = site.posts | where:"author","direcao" %}
-    {% for post in posts %}
-        {% include postbox.html %}
-    {% endfor %}
-</div>
+{% assign posts = site.posts | where:"author","direcao" %}
+{% for post in posts %}
+  {% include postbox.html %}
+{% endfor %}

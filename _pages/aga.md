@@ -18,11 +18,7 @@ A Mesa da Assembleia Geral de Alunos da AAIEP é constituída por três membros:
 
 Podes contactar a **MAGA AAIEP** através do e-mail [mesa@aaiep.pt](mailto:mesa@aaiep.pt).
 
-<!-- Posts Index
-================================================== -->
-<div class="blog-grid-container">
-    {% assign posts = site.posts | where:"author","mesa" %}
-    {% for post in posts %}
-        {% include postbox.html %}
-    {% endfor %}
-</div>
+{% assign posts = site.posts | where:"author","mesa" %}
+{% for post in posts %}
+  {% include postbox.html %}
+{% endfor %}

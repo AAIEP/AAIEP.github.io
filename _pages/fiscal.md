@@ -14,11 +14,7 @@ O Conselho Fiscal da AAIEP é constituído por três elementos, sendo estes o Pr
 
 Podes contactar o **Conselho Fiscal AAIEP** através do e-mail [fiscal@aaiep.pt](mailto:fiscal@aaiep.pt).
 
-<!-- Posts Index
-================================================== -->
-<div class="blog-grid-container">
-    {% assign posts = site.posts | where:"author","fiscal" %}
-    {% for post in posts %}
-        {% include postbox.html %}
-    {% endfor %}
-</div>
+{% assign posts = site.posts | where:"author","fiscal" %}
+{% for post in posts %}
+  {% include postbox.html %}
+{% endfor %}

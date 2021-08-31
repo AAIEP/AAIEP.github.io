@@ -3,8 +3,14 @@ layout: page
 title: A equipa
 permalink: /equipa
 comments: false
-image: assets/images/equipa2122.png
 ---
+ESCREVER AQUI MAIS ALGUM PARÁGRAFO? MANDEM OPINIÕES PFF
+
+![A equipa](assets/images/equipa2122.png)
+
+Não pode deixar de ser evidente que como alunos do Instituto de Estudos Políticos, temos o dever - senão moral, reputacional - de ser exemplo na conduta e na condução de uma vida académica e associativa tão dinâmica e fervilhante como honesta e honrada. É esse o compromisso da nossa parte; é essa a expectativa que devem ter e pela qual devemos responder.
+
+## Quem somos
 <div class="list-authors mt-5">
 {% for author in site.authors %}
   {% if author[1].mandato %}

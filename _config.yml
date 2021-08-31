@@ -54,24 +54,190 @@ authors:
     web: 'eleicoes'
     description: "Comissão Eleitoral da AAIEP."
     mandato: FALSE
+  ci:
+    name: ci
+    display_name: Comunicação e Imagem
+    avatar: 'assets/images/oficiallogo.jpg'
+    description: "Departamento de Comunicação e Imagem."
+    mandato: FALSE
 
+# Direção
+  matildepacheco:
+    name: matildepacheco
+    display_name: Matilde Pacheco
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Presidente da Direção."
+    mandato: TRUE
+  matildecampos:
+    name: matildecampos
+    display_name: Matilde Campos
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vice-Presidente da Direção."
+    mandato: TRUE
+  rodrigoleitao:
+    name: rodrigoleitao
+    display_name: Rodrigo Leitão
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vice-Presidente da Direção."
+    mandato: TRUE
+  miguelinacio:
+    name: miguelinacio
+    display_name: Miguel Inácio
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Tesoureiro."
+    mandato: TRUE
+  catarinanabais:
+    name: catarinanabais
+    display_name: Catarina Nabais
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Secretária-Geral da Direção."
+    mandato: TRUE
 
+# Mesa
   cesarcaldeira:
     name: cesarcaldeira
     display_name: César Caldeira
     avatar: 'assets/images/avatars/cesarcaldeira.jpg'
     email: mesa@aaiep.pt
     web: '/mesa'
-    description: "Presidente da Mesa da Assembleia Geral de Alunos."
+    description: "Presidente da Mesa da AGA."
     mandato: TRUE
-  matildepacheco:
-    name: matildepacheco
-    display_name: Matilde Pacheco
+  cristianapinto:
+    name: cristianapinto
+    display_name: Cristiana Pinto
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    description: "Presidente da Direção da AAIEP."
-    mandato: FALSE
+    email: mesa@aaiep.pt
+    web: aga
+    description: "Vice-Presidente da Mesa da AGA."
+    mandato: TRUE
+  miguelcostal:
+    name: miguelcostal
+    display_name: Miguel Costal
+    avatar: 'assets/images/avatar.png'
+    email: mesa@aaiep.pt
+    web: aga
+    description: "Secretário da Mesa da AGA."
+    mandato: TRUE
+
+# Conselho Fiscal
+  inessantareno:
+    name: inessantareno
+    display_name: Inês Santareno
+    avatar: 'assets/images/avatar.png'
+    email: fiscal@aaiep.pt
+    web: fiscal
+    description: "Presidente do Conselho Fiscal."
+    mandato: TRUE
+  marianasetra:
+    name: marianasetra
+    display_name: Mariana Setra
+    avatar: 'assets/images/avatar.png'
+    email: fiscal@aaiep.pt
+    web: fiscal
+    description: "Vice-Presidente do Conselho Fiscal."
+    mandato: TRUE
+  rafaelaguimaraes:
+    name: rafaelaguimaraes
+    display_name: Rafaela Guimarães
+    avatar: 'assets/images/avatar.png'
+    email: fiscal@aaiep.pt
+    web: fiscal
+    description: "Presidente do Conselho Fiscal."
+    mandato: TRUE
+
+# Vogais
+  migueljustino:
+    name: migueljustino
+    display_name: Miguel Justino
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal de Eventos."
+    mandato: TRUE
+  brunosilva:
+    name: brunosilva
+    display_name: Bruno Silva
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal de Eventos."
+    mandato: TRUE
+  britneygoncalves:
+    name: britneygoncalves
+    display_name: Britney Gonçalves
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal de Comunicação e Imagem."
+    mandato: TRUE
+  beatrizluis:
+    name: beatrizluis
+    display_name: Beatriz Luís
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal de Comunicação e Imagem."
+    mandato: TRUE
+  miguelfigueiredo:
+    name: miguelfigueiredo
+    display_name: Miguel Figueiredo
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal da Cultura."
+    mandato: TRUE
+  danielcarrapato:
+    name: danielcarrapato
+    display_name: Daniel Carrapato
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal da Cultura."
+    mandato: TRUE
+  margaridapaim:
+    name: margaridapaim
+    display_name: Margarida Paim
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal de Erasmus."
+    mandato: TRUE
+  isabellabaltazar:
+    name: isabellabaltazar
+    display_name: Isabella Baltazar
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal de Apoio ao Aluno."
+    mandato: TRUE
+  carolinaormonde:
+    name: carolinaormonde
+    display_name: Carolina Ormonde
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal de Responsabilidade Social."
+    mandato: TRUE
+  patriciavaz:
+    name: patriciavaz
+    display_name: Patrícia Vaz
+    avatar: 'assets/images/avatar.png'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal dos 2º e 3º Ciclos."
+    mandato: TRUE
+
+
 
 ###############################################################################
 # !!! ATENÇÃO !!!
