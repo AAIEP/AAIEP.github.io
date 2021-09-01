@@ -3,7 +3,7 @@ layout: page
 title: Conselho Fiscal
 permalink: /fiscal
 comments: false
-image: assets/images/fiscal.png
+image: assets/images/Fiscal.png
 imageshadow: false
 ---
 O Conselho Fiscal da AAIEP é constituído por três elementos, sendo estes o Presidente, o Vice-Presidente e o Secretário. Atualmente, no mandato de 2021/2022, o Conselho Fiscal é composto por:

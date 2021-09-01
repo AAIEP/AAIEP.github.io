@@ -3,7 +3,7 @@ layout: page
 title: Assembleia Geral de Alunos
 permalink: /aga
 comments: false
-image: assets/images/aga.png
+image: assets/images/AGA.png
 imageshadow: false
 ---
 A Assembleia Geral de Alunos da AAIEP é constituída por todos os alunos do IEP, que são automaticamente associados da AAIEP, e é nela que se reúnem democraticamente para exercerem os seus direitos enquanto associados.
