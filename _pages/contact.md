@@ -4,9 +4,11 @@ title: Contactos
 permalink: /contactos
 comments: false
 ---
+Por favor, contacta-nos através deste formulário, enviando um e-mail para [geral@aaiep.pt](mailto:geral@aaiep.pt) ou através das nossas redes sociais! Iremos responder-te assim que possível.
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Por favor, contacta-nos através deste formulário, enviando um e-mail para <a href="mailto:geral@aaiep.pt">geral@aaiep.pt</a> ou através das nossas redes sociais! Iremos responder-te assim que possível.</p>
+**NOTA IMPORTANTE:** A nossa equipa encontra-se a transitar para os novos emails **@aaiep.pt**. Durante este período ainda estamos a utilizar o email [aaiep.lisboa.ucp@sapo.pt](mailto:aaiep.lisboa.ucp@sapo.pt), portanto até toda a equipa estar familiarizada com o novo sistema pedimos a vossa compreensão por qualquer demora ou confusão relativa aos nossos contactos.
+
+<form action="https://formspree.io/f/mzbyyrdb" method="POST">
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Nome*" required>
