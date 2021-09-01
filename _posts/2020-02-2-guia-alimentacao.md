@@ -4,6 +4,7 @@ title:  "Alimentação"
 author: ci
 categories: [ Guia ]
 image: assets/images/cantinavelha.jpg
+comments: false
 ---
 
 Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.
