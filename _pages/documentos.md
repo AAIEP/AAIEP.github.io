@@ -11,16 +11,15 @@ A **AAIEP** divulga todos os seus documentos nesta página. Podes consultar os m
 
 # Documentos fundamentais
 
-- **Estatutos** (consultar [aqui](estatutos) ou em formato [PDF](""))
+<ul>
+  <li><b>Estatutos da AAIEP</b> <a href="/docs/estatutos"><span class="badge badge-primary">SITE</span></a> <a href="/docs/estatutos"><span class="badge badge-primary">PDF</span></a></li>
+</ul>
 
 # Mandatos
 
 <details>
-<summary>2021/22</summary>
+<summary><h3>2021/22</h3></summary>
 <ul>
- <li>Artigo 1º</li>  
- <li>Artigo 2º</li>  
- <li>Artigo 3º</li>  
- <li>Artigo 4º</li>  
+  <li>Documento Exemplar <a href="/docs"><span class="badge badge-primary">PDF</span></a></li>
 </ul>
 </details>
