@@ -3,7 +3,7 @@ layout: post
 title:  "Eventos do IEP"
 author: ci
 categories: [ Guia ]
-image: assets/images/event.jpg
+image: assets/images/jantarchurchill.jpg
 comments: false
 ---
 São poucos os cursos que se podem gabar dos eventos de que os alunos podem fazer parte como nós podemos. Estes são experiências imperdíveis, que são verdadeiras oportunidades para não só conhecer melhor os teus colegas, como os teus professores e as tantas pessoas que colaboram com o Instituto não só em investigação, mas como antigos alunos e especialistas em diversas áreas.

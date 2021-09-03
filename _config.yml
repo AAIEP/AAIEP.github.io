@@ -18,8 +18,9 @@ mandato: "2021/2022"
 # Quando mudar de mandato, ou se alguém sai, alterar a variável "mandato" para FALSE.
 
 # NOTA IMPORTANTE:
-# Os primeiros 4 autores são a Direção, a Mesa e o Conselho Fiscal. Estes devem ter "mandato: FALSE"
-# de modo a não entrar em conflito com outras partes do site.
+# Os primeiros 5 autores são a Direção, a Mesa, o Conselho Fiscal e a Comunicação e Imagem. Estes devem ter "mandato: FALSE"
+# de modo a não entrar em conflito com outras partes do site. Se quiserem adicionar mais, como o "Cultural"
+# por favor façam também com o "mandato: FALSE"
 
 authors:
   mesa:
