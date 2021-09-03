@@ -6,6 +6,8 @@ categories: [ Guia ]
 image: assets/images/healthyfood.jpg
 comments: false
 ---
+Tens imensas alternativas quanto a onde te podes alimentar durante o dia de aulas. Dentro do campus ou nos arredores, nunca te irão faltar alternativas acessíveis onde almoçar, e terás sempre micro-ondas espalhados pelas cantinas do campus onde podes aquecer comida que tragas de casa.
+
 ## Cantinas/bares UCP
 **Preço médio - 4,5€**
 

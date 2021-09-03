@@ -3,7 +3,7 @@ layout: post
 title:  "Os professores e as cadeiras"
 author: ci
 categories: [ Guia ]
-image: assets/images/cantinavelha.jpg
+image: assets/images/sala.jpg
 comments: false
 ---
 Falar-te de todos os professores e cadeiras do IEP seria bastante maçador - e para isso terás todos os teus colegas mais velhos que vão com certeza contar-te mil histórias e dar-te dicas ao longo destes três anos- , por isso falamos-te aqui dos professores com quem vais ter aulas ou conhecer melhor ao longo deste primeiro semestre:
