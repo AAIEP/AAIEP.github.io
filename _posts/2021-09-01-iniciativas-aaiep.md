@@ -3,7 +3,7 @@ layout: post
 title:  "Iniciativas e projetos"
 author: ci
 categories: [ Guia ]
-image: assets/images/pastas.jpg
+image: assets/images/bicicletalisboa.jpg
 comments: false
 ---
 ## Solidariedade e Ação social
