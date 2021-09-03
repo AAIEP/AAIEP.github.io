@@ -4,27 +4,27 @@ title: Estatutos
 permalink: /docs/estatutos
 comments: false
 ---
-Estatutos oficiais da Associação Académica do Instituto de Estudos Políticos, promulgados a 31 de fevereiro de 2069 (DISCLAIMER: work-in-progress)
+Estatutos oficiais da Associação Académica do Instituto de Estudos Políticos (DISCLAIMER: work-in-progress)
 
 # Tabela de conteúdos
 
 <details>
 <summary>Capítulo I</summary>
 <ul>   
- <li>Artigo 1º</li>  
- <li>Artigo 2º</li>  
- <li>Artigo 3º</li>  
- <li>Artigo 4º</li>  
+ <li><a href="/docs/estatutos#artigo-1º">Artigo 1º</a></li>  
+ <li><a href="/docs/estatutos#artigo-2º">Artigo 2º</a></li>  
+ <li><a href="/docs/estatutos#artigo-3º">Artigo 3º</a></li>  
+ <li><a href="/docs/estatutos#artigo-4º">Artigo 4º</a></li>  
 </ul>
 </details>
 <details>
 <summary>Capítulo II</summary>
 <ul>  
- <li>Artigo 5º</li>  
- <li>Artigo 6º</li>  
- <li>Artigo 7º</li>  
- <li>Artigo 8º</li>
- <li>Artigo 9º</li>   
+ <li><a href="/docs/estatutos#artigo-5º">Artigo 5º</a></li>  
+ <li><a href="/docs/estatutos#artigo-6º">Artigo 6º</a></li>  
+ <li><a href="/docs/estatutos#artigo-7º">Artigo 7º</a></li>  
+ <li><a href="/docs/estatutos#artigo-8º">Artigo 8º</a></li>
+ <li><a href="/docs/estatutos#artigo-9º">Artigo 9º</a></li>   
 </ul>
 </details>
 
@@ -32,14 +32,14 @@ Estatutos oficiais da Associação Académica do Instituto de Estudos Políticos
 
 # Capítulo I
 
-# Artigo 1º
+## Artigo 1º
 
 Exemplo de algo escrito
 
 1. Primeiro ponto;
 2. Segundo ponto.
 
-# Artigo 2º
+## Artigo 2º
 
 Exemplo de algo escrito
 
