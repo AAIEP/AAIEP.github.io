@@ -2,7 +2,7 @@
 name: "AAIEP"
 title: "AAIEP"
 description: "AAIEP, a tua voz na academia. Faz-te ouvir connosco."
-logo: 'assets/images/logodarksimple.png'     # nota, este é o logotipo usado no site, completamente a preto, não alterar
+logo: 'assets/images/logostd.png'     # nota, este é o logotipo usado no site, completamente a preto, não alterar
 favicon: 'assets/images/logodarksimple.png'
 baseurl: ''
 # google_analytics: 'UA-xxxxxxxx-1'
@@ -66,7 +66,7 @@ authors:
   matildepacheco:
     name: matildepacheco
     display_name: Matilde Pacheco
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/matildepacheco.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Presidente da Direção."
@@ -74,7 +74,7 @@ authors:
   matildecampos:
     name: matildecampos
     display_name: Matilde Campos
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/matildecampos.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vice-Presidente da Direção."
@@ -82,7 +82,7 @@ authors:
   rodrigoleitao:
     name: rodrigoleitao
     display_name: Rodrigo Leitão
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/rodrigoleitao.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vice-Presidente da Direção."
@@ -90,7 +90,7 @@ authors:
   miguelinacio:
     name: miguelinacio
     display_name: Miguel Inácio
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/miguelinacio.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Tesoureiro."
@@ -98,7 +98,7 @@ authors:
   catarinanabais:
     name: catarinanabais
     display_name: Catarina Nabais
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/catarinanabais.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Secretária-Geral da Direção."
@@ -108,7 +108,7 @@ authors:
   cesarcaldeira:
     name: cesarcaldeira
     display_name: César Caldeira
-    avatar: 'assets/images/avatars/cesarcaldeira.jpg'
+    avatar: 'assets/images/avatars/equipa21/cesarcaldeira.jpg'
     email: mesa@aaiep.pt
     web: '/mesa'
     description: "Presidente da Mesa da AGA."
@@ -116,7 +116,7 @@ authors:
   cristianapinto:
     name: cristianapinto
     display_name: Cristiana Pinto
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/cristianapinto.jpg'
     email: mesa@aaiep.pt
     web: aga
     description: "Vice-Presidente da Mesa da AGA."
@@ -124,7 +124,7 @@ authors:
   miguelcostal:
     name: miguelcostal
     display_name: Miguel Costal
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/miguelcostal.jpg'
     email: mesa@aaiep.pt
     web: aga
     description: "Secretário da Mesa da AGA."
@@ -134,7 +134,7 @@ authors:
   inessantareno:
     name: inessantareno
     display_name: Inês Santareno
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/inessantareno.jpg'
     email: fiscal@aaiep.pt
     web: fiscal
     description: "Presidente do Conselho Fiscal."
@@ -142,7 +142,7 @@ authors:
   marianasetra:
     name: marianasetra
     display_name: Mariana Setra
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/marianasetra.jpg'
     email: fiscal@aaiep.pt
     web: fiscal
     description: "Vice-Presidente do Conselho Fiscal."
@@ -150,7 +150,7 @@ authors:
   rafaelaguimaraes:
     name: rafaelaguimaraes
     display_name: Rafaela Guimarães
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/rafaelaguimaraes.jpg'
     email: fiscal@aaiep.pt
     web: fiscal
     description: "Presidente do Conselho Fiscal."
@@ -160,7 +160,7 @@ authors:
   migueljustino:
     name: migueljustino
     display_name: Miguel Justino
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/migueljustino.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vogal de Eventos."
@@ -168,7 +168,7 @@ authors:
   brunosilva:
     name: brunosilva
     display_name: Bruno Silva
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/brunosilva.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vogal de Eventos."
@@ -176,7 +176,7 @@ authors:
   britneygoncalves:
     name: britneygoncalves
     display_name: Britney Gonçalves
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/britneygoncalves.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vogal de Comunicação e Imagem."
@@ -184,7 +184,7 @@ authors:
   beatrizluis:
     name: beatrizluis
     display_name: Beatriz Luís
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/beatrizluis.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vogal de Comunicação e Imagem."
@@ -192,7 +192,7 @@ authors:
   miguelfigueiredo:
     name: miguelfigueiredo
     display_name: Miguel Figueiredo
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/miguelfigueiredo.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vogal da Cultura."
@@ -200,15 +200,23 @@ authors:
   danielcarrapato:
     name: danielcarrapato
     display_name: Daniel Carrapato
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/danielcarrapato.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vogal da Cultura."
     mandato: TRUE
+  patriciavaz:
+    name: patriciavaz
+    display_name: Patrícia Vaz
+    avatar: 'assets/images/avatars/equipa21/patriciavaz.jpg'
+    email: direcao@aaiep.pt
+    web: direcao
+    description: "Vogal dos 2º e 3º Ciclos."
+    mandato: TRUE
   margaridapaim:
     name: margaridapaim
     display_name: Margarida Paim
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/margaridapaim.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vogal de Erasmus."
@@ -216,7 +224,7 @@ authors:
   isabellabaltazar:
     name: isabellabaltazar
     display_name: Isabella Baltazar
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/isabellabaltazar.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vogal de Apoio ao Aluno."
@@ -224,21 +232,11 @@ authors:
   carolinaormonde:
     name: carolinaormonde
     display_name: Carolina Ormonde
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatars/equipa21/carolinaormonde.jpg'
     email: direcao@aaiep.pt
     web: direcao
     description: "Vogal de Responsabilidade Social."
     mandato: TRUE
-  patriciavaz:
-    name: patriciavaz
-    display_name: Patrícia Vaz
-    avatar: 'assets/images/avatar.png'
-    email: direcao@aaiep.pt
-    web: direcao
-    description: "Vogal dos 2º e 3º Ciclos."
-    mandato: TRUE
-
-
 
 ###############################################################################
 # !!! ATENÇÃO !!!

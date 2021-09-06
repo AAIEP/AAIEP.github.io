@@ -9,10 +9,6 @@
             {% else %}
             <img  class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
             {% endif %}
-            <p class="mt-4 mb-0 small text-center">
-                <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author.web }}"><i class="fa fa-link"></i></a>
-                <a class="d-inline-block mx-1 text-dark" href="mailto:{{ author.email }}"><i class="fa fa-envelope"></i></a>
-            </p>
         </div>
         <div class="col-md-9">
             <h4>{{ author.display_name }}</h4>

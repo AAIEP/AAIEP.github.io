@@ -9,10 +9,6 @@ imageshadow: true
 
 A **Associação Académica do Instituto de Estudos Políticos (AAIEP)** é a associação de estudantes que representa os alunos do Instituto de Estudos Políticos da Universidade Católica Portuguesa de acordo com os termos da lei n.º23/2006, de 23 de junho, que aprova o regime jurídico do associativismo jovem, alterado com a lei n.º 57/2019, de 7 de agosto.
 
-# História
-
-A AAIEP foi fundada em 2009 _(WORK IN PROGRESS)_.
-
 # Órgãos
 A AAIEP é constituída pelos seguintes órgãos:
 * a **[Direção](direcao)**, o órgão executivo da AAIEP;

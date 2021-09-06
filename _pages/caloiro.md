@@ -6,6 +6,10 @@ comments: false
 image: assets/images/back2school.jpg
 imageshadow: true
 ---
+<div class="video-container">
+  <iframe class="video" src="https://www.youtube.com/embed/3HaJpa1BJJs" allowfullscreen></iframe>
+</div>
+
 Bem vindos, caloiros!
 
 Vai começar agora um novo ciclo das vossas vidas e é com enorme satisfação que a AAIEP está aqui desde o primeiro passo para te ajudar! Neste “guia de sobrevivência'', vamos explicar-te o mais importante, desde dicas para cada cadeira, sítios para estudar até aos sítios mais em conta para almoçar.
