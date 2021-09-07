@@ -57,7 +57,7 @@ authors:
     mandato: FALSE
   ci:
     name: ci
-    display_name: Comunicação e Imagem
+    display_name: Comunicação
     avatar: 'assets/images/oficiallogo.jpg'
     description: "Departamento de Comunicação e Imagem."
     mandato: FALSE
@@ -153,7 +153,7 @@ authors:
     avatar: 'assets/images/avatars/equipa21/rafaelaguimaraes.jpg'
     email: fiscal@aaiep.pt
     web: fiscal
-    description: "Presidente do Conselho Fiscal."
+    description: "Secretária do Conselho Fiscal."
     mandato: TRUE
 
 # Vogais

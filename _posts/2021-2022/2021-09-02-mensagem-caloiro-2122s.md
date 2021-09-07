@@ -4,7 +4,7 @@ title:  "Mensagem da Presidente para os novos alunos de 2021/2022"
 author: matildepacheco
 categories: [ Comunicado, Guia ]
 tags: [ 2021/2022 ]
-image: assets/images/pacheco-posse.jpg
+image: assets/images/pacheco-posse-2.jpg
 comments: false
 ---
 Caro IEPiano,

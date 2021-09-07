@@ -4,14 +4,25 @@ title: Contactos
 permalink: /contactos
 comments: false
 ---
+- [Facebook](https://www.facebook.com/aaiep), [Instagram](https://instagram.com/aaiep_ucp/) e [LinkedIn](https://www.linkedin.com/company/aaiep/).
+
+---
+
 Por favor, contacta-nos através deste formulário, enviando um e-mail para [geral@aaiep.pt](mailto:geral@aaiep.pt) ou através das nossas redes sociais! Iremos responder-te assim que possível.
 
+- [Facebook](https://www.facebook.com/aaiep), [Instagram](https://instagram.com/aaiep_ucp/) e [LinkedIn](https://www.linkedin.com/company/aaiep/).
+
+---
+
 **NOTA IMPORTANTE:** A nossa equipa encontra-se a transitar para os novos emails **@aaiep.pt**. Durante este período ainda estamos a utilizar o email [aaiep.lisboa.ucp@sapo.pt](mailto:aaiep.lisboa.ucp@sapo.pt), portanto até toda a equipa estar familiarizada com o novo sistema pedimos a vossa compreensão por qualquer demora ou confusão relativa aos nossos contactos.
+
+---
 
 <!---
 IMPORTANTE!!!!!!
 POR AMOR DE DEUS NÃO
-MEXAM NESTE FORMULÁRIO
+MEXAM NESTE FORMULÁRIO OU
+EU MATO ALGUÉM
 --->
 <form action="https://formspree.io/f/mzbyyrdb" method="POST">
 <div class="form-group row">

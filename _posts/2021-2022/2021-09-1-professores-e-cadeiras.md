@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Os professores e as cadeiras"
+title:  "Os professores e as cadeiras no teu primeiro semestre"
 author: ci
 categories: [ Guia ]
 image: assets/images/sala.jpg
