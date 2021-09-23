@@ -61,6 +61,13 @@ authors:
     avatar: 'assets/images/oficiallogo.jpg'
     description: "Departamento de Comunicação e Imagem."
     mandato: FALSE
+  voluntariado:
+    name: voluntariado
+    display_name: Voluntariado
+    avatar: 'assets/images/oficiallogo.jpg'
+    web: 'eleicoes'
+    description: "Bolsa de Voluntariado da AAIEP."
+    mandato: FALSE
 
 # Direção
   matildepacheco:
