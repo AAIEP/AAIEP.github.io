@@ -4,19 +4,11 @@ title: Contactos
 permalink: /contactos
 comments: false
 ---
-- [Facebook](https://www.facebook.com/aaiep), [Instagram](https://instagram.com/aaiep_ucp/) e [LinkedIn](https://www.linkedin.com/company/aaiep/).
-
----
 
 Por favor, contacta-nos através deste formulário, enviando um e-mail para [geral@aaiep.pt](mailto:geral@aaiep.pt) ou através das nossas redes sociais! Iremos responder-te assim que possível.
 
 - [Facebook](https://www.facebook.com/aaiep), [Instagram](https://instagram.com/aaiep_ucp/) e [LinkedIn](https://www.linkedin.com/company/aaiep/).
 
----
-
-**NOTA IMPORTANTE:** A nossa equipa encontra-se a transitar para os novos emails **@aaiep.pt**. Durante este período ainda estamos a utilizar o email [aaiep.lisboa.ucp@sapo.pt](mailto:aaiep.lisboa.ucp@sapo.pt), portanto até toda a equipa estar familiarizada com o novo sistema pedimos a vossa compreensão por qualquer demora ou confusão relativa aos nossos contactos.
-
----
 
 <!---
 IMPORTANTE!!!!!!
@@ -49,3 +41,7 @@ Se tens uma dúvida mais específica para algum dos nossos órgãos podes contac
 - Conselho Fiscal: <a href="mailto:fiscal@aaiep.pt">fiscal@aaiep.pt</a>
 
 Durante o período eleitoral, qualquer dúvida deve ser remetida para a Comissão Eleitoral através do endereço <a href="mailto:eleicoes@aaiep.pt">eleicoes@aaiep.pt</a> .
+
+---
+
+**NOTA IMPORTANTE:** A nossa equipa encontra-se a transitar para os novos emails **@aaiep.pt**. Durante este período ainda estamos a utilizar o email [aaiep.lisboa.ucp@sapo.pt](mailto:aaiep.lisboa.ucp@sapo.pt), mas os novos contactos são preferíveis.
