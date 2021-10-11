@@ -65,8 +65,15 @@ authors:
     name: voluntariado
     display_name: Voluntariado
     avatar: 'assets/images/oficiallogo.jpg'
-    web: 'eleicoes'
+    web: 'voluntariado'
     description: "Bolsa de Voluntariado da AAIEP."
+    mandato: FALSE
+  cultural:
+    name: cultural
+    display_name: Cultural
+    avatar: 'assets/images/oficiallogo.jpg'
+    web: 'cultural'
+    description: "Departamento Cultural da AAIEP."
     mandato: FALSE
 
 # Direção
