@@ -43,5 +43,3 @@ O presidente dos Estados Unidos vê-se envolvido num escândalo sexual a poucas 
 # Vota!
 
 Podes votar através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSdFx2pYpP5s75h58NmbJPNI2QIjYw_w5DRyB3OwaZxL_fpTWw/viewform)!
-
-Link alternativo: [https://docs.google.com/forms/d/e/1FAIpQLSdFx2pYpP5s75h58NmbJPNI2QIjYw_w5DRyB3OwaZxL_fpTWw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdFx2pYpP5s75h58NmbJPNI2QIjYw_w5DRyB3OwaZxL_fpTWw/viewform)
