@@ -12,7 +12,7 @@ comments: false
 
 **Autor:** Ângelo Miguel
 
-![](https://www.imdb.com/title/tt1759761/mediaviewer/rm3358137856/)
+![](https://image.tmdb.org/t/p/original/se86cWSwdSftjJH8OStW7Yu3ZPC.jpg)
 
 “Peaky Blinders” acompanha a família Shelby a partir do ano de 1919. Começando como donos de uma casa de apostas em Birmingham, a família torna-se num dos Gangs mais influentes do Reino Unido, tudo motivado pela grande ambição de um dos membros da família, Thomas Shelby.
 
@@ -24,7 +24,7 @@ A sexta e última temporada de “Peaky Blinders” estará disponível a partir
 
 **Autor:** Tomás Ricou
 
-![](https://image.tmdb.org/t/p/original/se86cWSwdSftjJH8OStW7Yu3ZPC.jpg)
+![](https://www.cinematyrant.com/wp-content/uploads/2016/11/veep-on-netflix.jpg)
 
 As recentes eleições no Estado de Nova Jérsia e na Commonwealth da Virgínia, cujos resultados eleitorais, enquanto preview das eleições intercalares, prospetam o Partido Democrata estar em sério risco de sofrer uma enorme hecatombe em 2022. Esta situação fez-me lembrar uma personagem fictícia que eu acarinho muito: Selina Meyer, da série Veep. O que faria ela perante estes resultados?
 
