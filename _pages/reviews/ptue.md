@@ -1,0 +1,52 @@
+---
+layout: page
+title: Portugal e a União Europeia
+permalink: /ptue
+comments: false
+rating: 3
+---
+
+Uma cadeira de caráter mais prático, alia o conhecimento técnico ao contexto atual.Acaba por ser mais fácil de acompanhar por ser um conjunto de temas interligados que se testam num exame final. O trabalho de grupo é exigente porque pressupõe uma pesquisa mais profunda de cada tema escolhido. (3/5)
+
+---
+
+De todas as opcionais em que estive inserida foi a que menos gostei. O trabalho de grupo que fizemos foi uma maneira muito boa de aplicar os conhecimentos mas o teste não foi nada fácil devido à quantidade de matéria que tínhamos de saber e principalmente a data dos acontecimentos estudados em sala de aula (3/5)
+
+---
+
+- Achei a cadeira útil, interessante, de fácil compreensão e uma mais valia para quem vai ter Construção Europeia no semestre seguinte
+- Gostei das aulas, é visível o gosto dos professores pela disciplina e assuntos discutidos em aula
+- Recomendo-a a quem tenha interesse na história de Portugal e da União Europeia e que goste de debates e discussão de ideias (primeiras aulas foram bastante interativas) (4/5)
+
+---
+
+Esta cadeira ficaria melhor colocada no segundo ou no terceiro ano, depois de Construção Europeia (3/5)
+
+---
+
+Para quem está interessado em perceber o que é a UE e como começou é a cadeira ideal. Se for o contrário acaba por ser bastante entediante. Acaba por ser parecida com a cadeira de 2 ano, Construção Europeia.
+Tem um trabalho de grupo, não é difícil ter boa nota, quer no trabalho quer no geral. (3/5)
+
+---
+
+PTUE é uma opcional interessante, aborda tópicos importantes da nossa vida como europeus, apesar de por vezes alguns dos assuntos serem um pouco secantes. Os professores são porreiros, a professora Sónia Ribeiro gosta de integrar os alunos na sua aula e valoriza a sua participação, já as aulas do professor João Vacas são muito monótonas, sendo desafiante manter a concentração durante toda a aula. Acima de tudo recomendaria ir para PTUE pelas vantagens que traz no segundo ano. O programa é muito semelhante com o de CE, uma cadeira do 1 semestre do segundo ano. Alguém que se aplique e leve a cadeira a sério vai ter muito mais facilidade no estudo de CE face a alguém que escolha outra opcional. (3/5)
+
+---
+
+Cadeira leccionada em português, foi-me aconselhada por um aluno mais velho, quando lhe mencionei que pretendia participar no programa Erasmus+ e não desapontou, daí aconselhar a todos os graúdos do curso que se inscrevam nesta cadeira caso pretendam seguir o mesmo caminho, por vos dar algumas bases que não só servem para a vossa jornada como alunos de Erasmus no estrangeiro, como vos ajuda a perceber um pouco melhor a situação de Portugal na União Europeia. Lecionada pela Professora Sónia Ribeiro e pelo Professor João Vacas, foi uma cadeira que gostei bastante e que me assegurou alguns pontos a mais na média. Isto não quer dizer, de todo, que não requer trabalho e cooperação nas aulas por parte dos alunos, sendo que não é muito díficil já que ambos os professores incentivam bastante, direta e indiretamente, a participação dos alunos nas aulas. É uma cadeira que em termos de ser presencial/remoto não faz muita diferença porque os professores conseguem satisfazer o bom decorrer das aulas em ambos os métodos. (4/5)
+
+---
+
+A cadeira foi de modo geral bastante interessante e útil para quem pretende aprofundar o conhecimento em estudos europeus. Tivemos palestras com pessoas que estão diretamente ligadas às instituições europeias e as aulas foram bastante interativas, com pequenos trabalhos de grupo e debates. Contudo, a cadeira exige um certo conhecimento prévio sobre a União Europeia, tornando-se assim complicado para quem não tem as bases. Para além disso, como a avaliação de maior peso é realizada no final do semestre, torna-se complicado conciliar toda a matéria. (3,5/5)
+
+---
+
+Relativamente à cadeira PTUE recomendo talvez após terem construção europeia porque assim já têm uma base mais alargada do tema e irá ajudar bastante para compreender a optativa! É uma cadeira interessante onde vão ter de fazer vários trabalhos em grupo ao longo do semestre e obriga-vos a participar bastante! Em geral, como fiz a cadeira no primeiro ano não gostei muito mas sinto que se a fizesse no segundo ano iria estar mais centrada e iria gostar muito mais. (3/5)
+
+---
+
+Achei a cadeira de Portugal e a União Europeia um pouco desnecessária no plano curricular do IEP, uma vez que já existem cadeiras obrigatórias como Instituições e Organizações Internacionais e Construção Europeia que nos dão uma informação muito mais detalhada em matéria internacional.
+
+A cadeira está um pouco mal constituída, porque a matéria lecionada na primeira parte é bastante vaga, parece quase sem fio condutor, onde vamos tocando em pontos que apenas são semelhantes por serem de matéria internacional.
+
+Penso que uma vez que já existem cadeiras que conferem um conhecimento de âmbito internacional tão detalhado, de forma mais clara e completa, a cadeira de Portugal e a União Europeia acaba por perder um pouco do seu valor. Ainda que se incida mais sobre a posição de Portugal no mundo e em especial na União Europeia, isso também é abordado nas cadeiras obrigatórias, diria até de forma mais completa, pelo que a cadeira pouco ou nada acrescenta ao conhecimento de qualquer aluno do IEP. (2/5)

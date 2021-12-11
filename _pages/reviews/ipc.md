@@ -1,0 +1,29 @@
+---
+layout: page
+title: Israeli-Palestinian Conflict
+permalink: /ipc
+comments: false
+rating: 4.5
+---
+
+Israeli-Palestinian Conflict não é uma das opcionais mais famosos entre os alunos do IEP devido ao seu regime intensivo e à exigência Professor Pereira Coutinho, contudo, eu aconselho qualquer aluno que se interesse por História e Relações Internacionais a ir para esta cadeira.
+
+Até à data, ICP foi a melhor opcional e uma das melhores cadeiras que já tive durante a licenciatura, tendo superado as minhas elevadas expectativas.
+
+Isto não quer dizer que esta cadeira seja propriamente fácil. Tive de dedicar um tempo razoável ao estudo desta cadeira pois é lecionada somente em uma das partes do semestre e é avaliada formalmente em apenas dois momentos: um teste final e um trabalho desafiante, digamos assim. Destaco, ainda, as aulas que, embora, no meu caso, tenham sido sempre online, foram dinâmicas e exigiram a participação dos alunos. Em relação ao Professor, só o posso elogiar pois mostrou-se sempre disposto a ouvir opiniões e esclarecer dúvidas. (5/5)
+
+---
+
+É das opcionais mais interessantes, e mais importantes que já tive. Acho que a maior parte das pessoas não têm noção da dimensão deste Conflito. E o professor João Pereira Coutinho, especialista no assunto, explica todos os lados do Conflito, mostrando-se sempre imparcial. Recomendo. (4,5/5)
+
+---
+
+O tópico é muito interessante. A disciplina, com a duração de apenas meio semestre, é muito densa. Há muitos pormenores e é, sem dúvida, um tema polarizante. Apesar disso, o professor João Pereira Coutinho faz um excelente trabalho na sua tentativa de facilitar a compreensão dos variados temas complexos; sempre com a maior paciência para responder a perguntas. A atribuição de notas é bastante razoável, no entanto, a informação é muita e é preciso tanto atenção nas aulas, como um estudo atempado da matéria. (5/5)
+
+---
+
+Cadeira super interessante mas intensiva. Um professor que sabe o que fala, logo tem expectativas altas. (5/5)
+
+---
+
+O balanço geral  da cadeira é positivo. A única questão negativa é o facto de serem 6 horas por semanas, considero exigente por ser dada em inglês e o tema ser complexo e torna-se cansativo pela quantidade de tempo (4/5)

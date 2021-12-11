@@ -1,0 +1,18 @@
+---
+layout: page
+title: Política do Ceticismo
+permalink: /pc
+comments: false
+rating: 4.5
+---
+
+Sem dúvida a minha cadeira favorita. Adorei a maneira como o professor nos ensinou o programa da cadeira e o facto de estar sempre disponível para podermos tirar as dúvidas que precisávamos. Apesar disso é uma cadeira que exige muito exercício mental e um estudo contínuo. Não foi fácil mas foi muito giro e não me arrependo nada de ter ido para  esta cadeira (5/5)
+
+---
+
+É uma cadeira de encadeamento, é essencial ter um estudo contínuo e as aulas são a forma mais fácil de o fazer uma vez que não existe propriamente uma bibliografia secundária disponibilizada. Ainda assim, é muito interessante e permite abrir uma linha de pensamento a uma dimensão de pensamento superior à ideológica. (4/5)
+
+---
+
+As aulas são bastante interessantes para aqueles que gostaram de falar sobre Michael Oakshott com o professor Orlando Samões durante o seu 1.º ano. É uma disciplina que se foca bastante em questões pertinentes na política atual e o professor Carlos Marques Almeida deixa os alunos bastante interessados, comunicando convosco, estando sempre aberto a esclarecer dúvidas e entre outros aspetos que fazem  de si um dos melhores professores do IEP.
+Um aspeto a apontar é que se as aulas forem em modo remoto/presencial, aconselharia a não escolherem esta cadeira por motivos técnicos. Tivemos algumas complicações técnicas que dificultaram o lecionar da disciplina e a compreensão da matéria, portanto se conseguirem ir presencial, é bastante melhor tanto para vocês como para o professor. (3.5/5)

@@ -1,0 +1,54 @@
+---
+layout: page
+title: War and Strategy in a Contemporary World
+permalink: /wscw
+comments: false
+rating: 3.5
+---
+
+Pontos negativos: O inglês do professor é horrível, uma pronúncia muito ruim, as vezes não dá para perceber nada do que está a dizer. Achei a cadeira um bocado random, com aulas em que assistimos filmes e alguns conhecimentos específicos da área militar, como tipo de armas.
+
+No geral, não é muito interessante nem cativante.
+
+Pessoalmente acho que quem é de Relações Internacionais provavelmente vai gostar mais do conteúdo no geral do que aqueles que são de Ciência Política. Tenho a sensação de que não aprendi nada de especial nessa cadeira ao final do semestre :/
+
+Pontos positivos: Gostei das primeiras aulas em que lemos alguns textos e houve debates interessantes. Gostei também de aprender sobre guerras atuais. Acho que foram momentos interessantes e estudos/conhecimentos que agregam. Por não haver frequências, temos um trabalho de grupo oral + essay, facilitando a lidarem de forma tranquila com a avaliação. Ele dá uma ótima nota ao final da cadeira, o que ajuda imenso para aumentar a média. O professor avaliou-nos a todos com notas entre 15 a 18 :) (3/5)
+
+---
+
+É uma cadeira exaustiva para quem não está preparado/a para o seu conteúdo. É muito técnica e focada naquilo que são as técnicas que usamos para encarar o inimigo. Aconselho vivamente a olharem o syllabus antes de se inscreverem porque podem estar a entrar numa coisa que poderão nao saber o que realmente é no futuro. É uma cadeira de estratégia nas relações internacionais focada na terminologia dos conflitos e, exatamente por isso, quem gosta de falar de conflitos e tipos de guerras, está no sítio certo. Ou se adora ou se odeia, by the way. (2,5/5)
+
+---
+
+War and Strategy in the Contemporary World é uma boa cadeira para quem quer perceber os contornos da "Arte da Guerra" e de como a guerra não é um fantasma do passado, mas algo que ainda hoje determina as relações internacionais. Diria que foi uma boa cadeira em termos de notas, de teorias abordadas e de livros recomendados, mas não propriamente no que toca às aulas! (4/5)
+
+---
+
+Boa cadeira para subir as notas, não dá muito trabalho, e dá liberdade para trabalhar em temas do nosso agrado, o professor é prestável e como em Geopolitics and Strategic Foresight, traz convidados para variar as aulas, no entanto não é uma cadeira muito marcante nem te ensina nada de especial. (3/5)
+
+---
+
+Mesmo antes de entrar no IEP, War Studies era uma cadeira que me chamava muito a atenção. Escusado será dizer que as minhas expectativas eram verdadeiramente elevadas, porém, a cadeira não foi tão fascinante quanto eu esperava porque, apesar de os temas serem interessantes, a forma como as aulas nos foram lecionadas foi entediante, o que me levou a mim e a muitos colegas a perder o gosto inicial pela cadeira.
+Apesar disso, a cadeira foi extremamente fácil de fazer pois, na altura, os únicos elementos de avaliação eram um trabalho individual e um trabalho de grupo, por isso, não tive de dispor muito tempo para acabar a cadeira com boa nota. É muito importante deixar uma nota final ao Professor pela sua simpatia, acessibilidade e amabilidade. (3,5/5)
+
+---
+
+ Fiz esta cadeira quando ainda se chamava apenas "War Studies". Extremamente interessante, fácil de tirar boa nota, o professor é extremamente acessível e compreensivo. Sem dúvida uma boa cadeira para fazer em qualquer ponto da licenciatura. (4/5)
+
+---
+
+Opcional War and Strategy in a Contemporary World, cadeira com matéria muito interessante e na qual facilmente se têm boas avaliações, mas com aulas pouco apelativas e em que é necessário esforço para compreender o professor, especialmente  em casa. (4/5)
+
+---
+
+Vantagens:
+Programa da cadeira é acessível e não é puxado;
+Aulas muito dinâmica (o professor geralmente todas as semanas numa das aulas trazia um convidado para falar sobre um tema relacionado com o programa);
+Não requer trabalho contínuo por parte do aluno;
+Não há testes (só trabalho de grupo e um essay final)
+O professor é muito generoso a dar as notas (ótima cadeira para subir a média)
+
+Desvantagens:
+A cadeira é lecionada em inglês e todos os elementos da avaliação são em inglês
+É uma cadeira que requer muita participação (O professor faz muitas perguntas diretamente ao aluno durante a aula)
+(4,5/5)

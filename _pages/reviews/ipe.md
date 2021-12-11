@@ -1,0 +1,13 @@
+---
+layout: page
+title: Institutional Political Economy
+permalink: /ipe
+comments: false
+rating: 5
+---
+
+O nome pode parecer pomposo ou complexo mas recebem o que está na caixa. Na prática, trata-se sobretudo de analisar os diferentes arranjos institucionais (políticos, económicos e sociais) e pelo prisma da economia e da teoria de grupos. Nota primeira: a cadeira é em inglês, os readings estão em inglês e assim será a maior parte das aulas.
+
+Os readings são, aliás, os atores principais. As aulas se dividem em lectures e classes: aquelas de maior exposição, estas de discussão. Os professores dividem-se conforme este modelo e a participação - sejam questões ou intervenções - é muito valorizada. Espera-se que se acompanhe as leituras e é certamente recomendável!, porque processar tudo três dias antes da frequência há de dar uma valente dor de cabeça - assumindo que é sequer possível. Ao nível da exigência, é o que já se conhece dos professores André e Inês. São justos e acessíveis, mas esperam que façamos a nossa parte. O esforço, going the extra mile, sem dúvida compensa.
+
+Institutional Political Economy é sem dúvida uma mais valia quer para outras cadeiras, como Teoria da Decisão, quer para a análise dos mais variados cenários. E suspeito que IPE é uma daquelas cadeiras em que quanto mais nos aplicamos, mais retiramos; o que, no fundo, é dizer que o gozo é proporcional ao esforço. (5/5)

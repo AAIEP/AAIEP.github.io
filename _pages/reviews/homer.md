@@ -1,0 +1,17 @@
+---
+layout: page
+title: Homer
+permalink: /homer
+comments: false
+rating: 5
+---
+
+Homer, quer apanhem a cadeira em ano de Ilíada ou de Odisseia, é genuinamente das melhores cadeiras que tive até hoje! O professor Miguel Monjardino não desilude, e aula após aula, cresceu o quanto gostei dele como professor.
+As aulas são basicamente uma leitura acompanhada das obras, e uma conversa com o professor, sobre os ins and outs de uma obra que, embora não pareça imediatamente óbvio, moldou a cultura ocidental. Os segundos significados, histórias por detrás, o génio de Homero, é absolutamente incrível.
+Com sorte, terás direito a grupo de whatsapp em que podes fazer perguntas ao professor 24/7, e receber fotografias de vaquinhas e aviões vindas diretamente do quintal do prof. Monjardino, na ilha Terceira, nos Açores!! (5/5)
+
+---
+
+Ao longo do nosso curso nós estudamos sobre os pilares da nossa sociedade e da política. Nesse sentido, eu considero esta cadeira fantástica e fundamental considerando que ajuda-nos a compreender os elementos que definem e influenciam a política através do contexto histórico, social e cultural.
+Mediante a análise das obras Odisseia e Ilíada de Homero em aulas feitas em formato de seminário, nós aprendemos a ler a nossa realidade através da análise do cerne da nossa civilização ocidental; o que ajuda-nos a desenvolver um raciocínio crítico sobre medidas, ações e decisões da atualidade da política interna e externa. Nós aprendemos desde analisar personagens em particular (o que ensina-nos a examinar líderes políticos) até cruzar contextos entre os diferentes reinos reias e mitológicos; tudo feito de um forma interessante e descontraída porque aprendemos através de uma história contada em um poema épico.
+E para compreendermos uma obra genial é preciso ter um professor do mesmo nível. O professor Miguel Monjardino expõem e ouve ideias de uma forma muito dinâmica e fácil de compreender, ele encoraja-nos a puxar por nós mesmos e fazer as nossas próprias análises destes poemas. Pessoalmente adorei esta cadeira que ganhou um lugar especial entre as minhas favoritas. (5/5)

@@ -1,0 +1,18 @@
+---
+layout: page
+title: Conflict Resolution and Strategies for Peace
+permalink: /crsp
+comments: false
+rating: 3.5
+---
+
+Esperava mais da cadeira, deixou a desejar. (3/5)
+
+---
+
+Entrei em CRSP com expectativas muito elevadas mas, infelizmente, não foram correspondidas, o que pode ter acontecido devido ao facto de ter estado na primeira turma da cadeira e à alguma desorganização da Professora. De qualquer das formas, os conteúdos abordados nas aulas foram muito cativantes e focam uma parte das Relações Internacionais que não abordamos em outros cadeiras do IEP, sem exigir muito tempo de estudo da nossa parte, chegando, na minha opinião, apenas algum interesse e participação em aula.
+Em relação à avaliação, tivemos de fazer um teste final com toda a matéria e um portfólio acerca de um conflito, sendo que alguns alunos realizaram uma apresentação oral em aula. Reforço que a Professora Mónica Dias valoriza a participação em aula e utiliza-a como elemento de avaliação. Pessoalmente, a Professora Mónica sempre se mostrou muito prestável e atenciosa, ajudando-me e respondendo aos meus e-mails sempre com rapidez e simpatia. (4/5)
+
+---
+
+A cadeira de Conflict Resolution and Strategies for Peace é uma cadeira que dá uma base sobre conceitos, critérios e pontos de vista sobre o que é um conflito e os diferentes tipos de conflito que existem, e os elementos essenciais a ter em consideração. Na minha opinião a melhor parte da cadeira é construir o portfólio porque é um tipo e modo de trabalho bastante diferente daquilo que fazemos nas outras cadeiras do IEP. Achei que a cadeira ia cobrir mais em detalhe estratégias para resolução de conflitos, mas sinto que me deu uma boa base para poder explorar este tópico mais tarde em detalhe. É uma boa introdução para alguém que esteja na dúvida se este é um assunto que gostava de explorar em detalhe no futuro, por exemplo num mestrado. 3.5/5 (porque em comparação com a cadeira de Human Rights, também dada pela Professora Mónica Dias, seguiu um modelo de aulas parecido, contudo sinto que esta foi menos estimulante para os alunos apesar de não ter deixado de ser interessante).
