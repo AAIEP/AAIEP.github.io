@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recomendações Cinéfilas Outubro 2021"
-author: cultural
+author: danielcarrapato
 categories: [ Cinema ]
 tags: [ 2021/2022 ]
 image: https://www.nti-audio.com/portals/0/pics/en/Teaser-Cinema-1200-500.jpg

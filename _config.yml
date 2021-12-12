@@ -23,6 +23,13 @@ mandato: "2021/2022"
 # por favor façam também com o "mandato: FALSE"
 
 authors:
+  anon:
+    name: anonimo
+    display_name: Anónimo
+    avatar: 'https://cdn2.iconfinder.com/data/icons/people-occupation-job/64/Spy-Anonymous-incognito-Detective-FBI-CIA-Avatar-512.png'
+    description: "Publicações anónimas."
+    mandato: FALSE
+
   mesa:
     name: mesa
     display_name: Mesa da Assembleia Geral

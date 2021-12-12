@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recomendações Cinéfilas Novembro 2021"
-author: cultural
+author: danielcarrapato
 categories: [ Cinema ]
 tags: [ 2021/2022 ]
 image: https://www.nti-audio.com/portals/0/pics/en/Teaser-Cinema-1200-500.jpg
@@ -32,4 +32,4 @@ Protagonizada pela gigante do mundo da comédia Julia Louis-Dreyfus, Selina é a
 
 Selina e a sua equipa fazem tudo o que lhes possibilite manter ou aumentar o seu poder, aliás como todos os restantes personagens. Não há narrativas inspiradoras à la West Wing ou ultra irreais como House of Cards. Existe apenas intrigas e cinismo, que muitos políticos e ex-políticos consideram ser a representação fictícia mais parecida à realidade.
 
-Para quem como eu gosta de acompanhar a política americana, ou simplesmente para alguém que aprecie e queira rir – muito – não existe melhor recomendação do que ver as 7 temporadas de uma das melhores obras-primas que alguma vez passaram no pequeno ecrã. 
+Para quem como eu gosta de acompanhar a política americana, ou simplesmente para alguém que aprecie e queira rir – muito – não existe melhor recomendação do que ver as 7 temporadas de uma das melhores obras-primas que alguma vez passaram no pequeno ecrã.
