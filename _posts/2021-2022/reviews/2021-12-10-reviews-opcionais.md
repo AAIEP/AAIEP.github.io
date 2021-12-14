@@ -7,7 +7,16 @@ image: https://lexrexcommunications.com/wp-content/uploads/2018/10/shutterstock_
 comments: false
 ---
 
-{% assign posts = site.posts | where:"categories","Opcionais" %}
-{% for post in posts %}
+# Primeiro Semestre
+
+{% assign s1 = site.posts | where:"semestre",1 %}
+{% for post in s1 %}
+  {% include postbox.html %}
+{% endfor %}
+
+# Segundo Semestre
+
+{% assign s2 = site.posts | where:"semestre",2 %}
+{% for post in s2 %}
   {% include postbox.html %}
 {% endfor %}
